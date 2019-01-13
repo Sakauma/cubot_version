@@ -1,0 +1,32 @@
+========================================= camera open at time 22:27:27
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-07-15.1278.properties
+delete file success : /tmp/2018-07-15.1278.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+========================================= camera open at time 22:27:28
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-07-15.1452.properties
+delete file success : /tmp/2018-07-15.1452.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+========================================= camera open at time 22:27:31
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-07-15.1680.properties
+delete file success : /tmp/2018-07-15.1680.properties
+/proc/modules u3v_drv not exist
+Mode has change to [2, 2]
+connect cameral failed.
+========================================= camera open at time 22:27:34
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-07-15.1774.properties
+delete file success : /tmp/2018-07-15.1774.properties
+Mode has change to [2, 2]
+succeed to set camera para
+[33;40m[0m camera runing...
+camera Parameters set successfully when model change to Armor
+ImgPub: init success

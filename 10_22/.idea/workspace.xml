@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="872eb217-c05d-4e50-b910-41f191c95783" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="430065056">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="9" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="8" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="3" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="6986" />
+          <entry key="h" value="136" />
+          <entry key="hpp" value="7160" />
+          <entry key="txt" value="300" />
+          <entry key="yml" value="180" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="10" />
+          <entry key="Doxygen file" value="391" />
+          <entry key="ObjectiveC" value="13891" />
+          <entry key="PLAIN_TEXT" value="290" />
+          <entry key="YAML" value="180" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="49" />
+          <entry key="h" value="25" />
+          <entry key="hpp" value="59" />
+          <entry key="tcc" value="1" />
+          <entry key="txt" value="17" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="16" />
+          <entry key="ObjectiveC" value="134" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2138095708">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1008591188">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="infantry4_13" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gold/my.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1310">
+              <caret line="934" column="1" lean-forward="true" selection-start-line="934" selection-start-column="1" selection-end-line="934" selection-end-column="1" />
+              <folding>
+                <element signature="e#31670#31728#0" expanded="true" />
+                <element signature="e#33117#33430#0" expanded="true" />
+                <element signature="e#34310#34465#0" expanded="true" />
+                <element signature="e#36449#36735#0" expanded="true" />
+                <element signature="e#36766#37269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src_cubot/PublishAsync.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src_cubot/Serial_port.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dst_squares</find>
+      <find>0.25</find>
+      <find>return_signal_send</find>
+      <find>target</find>
+      <find>need_to_return</find>
+      <find>dst</find>
+      <find>return_signal</find>
+      <find>p2f_angle</find>
+      <find>detect</find>
+      <find>result_num</find>
+      <find>center</find>
+      <find>send_num</find>
+      <find>calc_len</find>
+      <find>war</find>
+      <find>Pixel2Angle</find>
+      <find>targetPoints</find>
+      <find>cameraMatrix</find>
+      <find>distCoeffs</find>
+      <find>distCoeffs2</find>
+      <find>cvDistCoeffs2</find>
+      <find>calMatrix</find>
+      <find>cvDistCoeffs</find>
+      <find>when model change</find>
+      <find>successfully</find>
+      <find>pub_callback</find>
+      <find>pub_mode</find>
+      <find>imshow</find>
+      <find>subsocket</find>
+      <find>digitalTubeLast</find>
+      <find>file</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>RectsLgtsEnlarge</replace>
+      <replace>fs_in</replace>
+      <replace>lgtLeftest</replace>
+      <replace>lgtRightest</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/cubotcpp/imgSubscrible.h" />
+        <option value="$PROJECT_DIR$/include/cubotcpp/imgPublish.h" />
+        <option value="$PROJECT_DIR$/include/daHua_usb/StreamRetrieve.h" />
+        <option value="$PROJECT_DIR$/include/daHua_usb/camParaConfig.h" />
+        <option value="$PROJECT_DIR$/Fuwen/test_dafuDetector.cpp" />
+        <option value="$PROJECT_DIR$/gold/bar_points.h" />
+        <option value="$PROJECT_DIR$/cfg/camera_params_infantey2.yml" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/src_cubot/imgProc-test.cpp" />
+        <option value="$PROJECT_DIR$/../dafu_hu/src_cubot/imgProc.cpp" />
+        <option value="$PROJECT_DIR$/Fuwen/DigitronDetector.hpp" />
+        <option value="$PROJECT_DIR$/gold/coordinante_process.h" />
+        <option value="$PROJECT_DIR$/6_14.txt" />
+        <option value="$PROJECT_DIR$/gold/my.h" />
+        <option value="$PROJECT_DIR$/gold/MengCfg.yml" />
+        <option value="$PROJECT_DIR$/include/cubotcpp/Serial_port.h" />
+        <option value="$PROJECT_DIR$/src_cam/videoPublish.cpp" />
+        <option value="$PROJECT_DIR$/cfg/camera_params_cam_5.yml" />
+        <option value="$PROJECT_DIR$/src_cam/pictures_pub.cpp" />
+        <option value="$PROJECT_DIR$/src_cubot/fuwentest.cpp" />
+        <option value="$PROJECT_DIR$/src_cam/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src_cubot/videoWrite.cpp" />
+        <option value="$PROJECT_DIR$/cfg/daHuaCamConfig.yml" />
+        <option value="$PROJECT_DIR$/src_cam/streamRetrieve.cpp" />
+        <option value="$PROJECT_DIR$/tools/train_svm.cpp" />
+        <option value="$PROJECT_DIR$/tools/videoWrite.cpp" />
+        <option value="$PROJECT_DIR$/include/gold/my.h" />
+        <option value="$PROJECT_DIR$/Fuwen/DafuDetector.hpp" />
+        <option value="$PROJECT_DIR$/src_cubot/imgProc2.cpp" />
+        <option value="$PROJECT_DIR$/Fuwen/corner.txt" />
+        <option value="$PROJECT_DIR$/Fuwen/DigitronDetector(svm_tube).hpp" />
+        <option value="$PROJECT_DIR$/Fuwen/NumClass.hpp" />
+        <option value="$PROJECT_DIR$/Fuwen/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tools/videoPublish.cpp" />
+        <option value="$PROJECT_DIR$/include/gold/coordinante_process.h" />
+        <option value="$PROJECT_DIR$/Fuwen/DafuDetector2.hpp" />
+        <option value="$PROJECT_DIR$/src_cam/camParaConfig.cpp" />
+        <option value="$PROJECT_DIR$/gold/ArmorHitTest.cpp" />
+        <option value="$PROJECT_DIR$/src_cam/camDaHua_node.cpp" />
+        <option value="$PROJECT_DIR$/src_cubot/SubscribeAsync.cpp" />
+        <option value="$PROJECT_DIR$/src_cubot/PublishAsync.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tools/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tools/pictures_pub.cpp" />
+        <option value="$PROJECT_DIR$/cfg/MengCfg.yml" />
+        <option value="$PROJECT_DIR$/gold/coordinante_process.cpp" />
+        <option value="$PROJECT_DIR$/gold/my.cpp" />
+        <option value="$PROJECT_DIR$/src_cubot/imgProc.cpp" />
+        <option value="$PROJECT_DIR$/gold/bar_points.cpp" />
+        <option value="$PROJECT_DIR$/src_cubot/Serial_port.cpp" />
+        <option value="$PROJECT_DIR$/include/fordefine.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-5" />
+    <option name="width" value="1855" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+              <item name="gold" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src_cam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+              <item name="src_cubot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="10_22" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="_inBlobName&#9;null&#9;null&#10;minRect&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gold" />
+      <recent name="$PROJECT_DIR$/cfg" />
+      <recent name="$PROJECT_DIR$/src_cubot" />
+      <recent name="$PROJECT_DIR$/Fuwen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fuwen" />
+      <recent name="$PROJECT_DIR$/cfg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="0701" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872eb217-c05d-4e50-b910-41f191c95783" name="Default" comment="" />
+      <created>1523610118185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523610118185</updated>
+      <workItem from="1523610119626" duration="2503000" />
+      <workItem from="1523770761038" duration="13968000" />
+      <workItem from="1523791908035" duration="9008000" />
+      <workItem from="1523801609448" duration="552000" />
+      <workItem from="1523805131541" duration="383000" />
+      <workItem from="1523805700809" duration="1546000" />
+      <workItem from="1523843741061" duration="27364000" />
+      <workItem from="1523941895059" duration="14553000" />
+      <workItem from="1523968490956" duration="71000" />
+      <workItem from="1523974821413" duration="6338000" />
+      <workItem from="1524025415797" duration="6088000" />
+      <workItem from="1524035533007" duration="10713000" />
+      <workItem from="1524053475211" duration="125000" />
+      <workItem from="1524060131673" duration="5495000" />
+      <workItem from="1524115786948" duration="16208000" />
+      <workItem from="1524145121740" duration="4147000" />
+      <workItem from="1524149558046" duration="123000" />
+      <workItem from="1524149899215" duration="2239000" />
+      <workItem from="1524152546764" duration="293000" />
+      <workItem from="1524154975115" duration="3000" />
+      <workItem from="1524155111427" duration="436000" />
+      <workItem from="1524156081705" duration="153000" />
+      <workItem from="1524159572589" duration="97000" />
+      <workItem from="1524217388634" duration="2151000" />
+      <workItem from="1524225770144" duration="32000" />
+      <workItem from="1524226666901" duration="6808000" />
+      <workItem from="1524233518842" duration="69000" />
+      <workItem from="1524290815202" duration="721000" />
+      <workItem from="1524293470364" duration="600000" />
+      <workItem from="1524316457978" duration="1216000" />
+      <workItem from="1524317820298" duration="2237000" />
+      <workItem from="1524325156597" duration="2967000" />
+      <workItem from="1524368400345" duration="395000" />
+      <workItem from="1524368954468" duration="6575000" />
+      <workItem from="1524378155379" duration="4122000" />
+      <workItem from="1524384870225" duration="19430000" />
+      <workItem from="1524407352571" duration="8118000" />
+      <workItem from="1524462030300" duration="654000" />
+      <workItem from="1524462802261" duration="260000" />
+      <workItem from="1524465163890" duration="516000" />
+      <workItem from="1524466013477" duration="18000" />
+      <workItem from="1524466951870" duration="109000" />
+      <workItem from="1524470180278" duration="3143000" />
+      <workItem from="1524473483923" duration="1397000" />
+      <workItem from="1524475184640" duration="3075000" />
+      <workItem from="1524482476501" duration="4155000" />
+      <workItem from="1524486893383" duration="11000" />
+      <workItem from="1524492542648" duration="2571000" />
+      <workItem from="1524496213836" duration="4793000" />
+      <workItem from="1524502554654" duration="3758000" />
+      <workItem from="1524508088422" duration="3304000" />
+      <workItem from="1524550967386" duration="21615000" />
+      <workItem from="1524576531296" duration="173000" />
+      <workItem from="1524577954025" duration="3345000" />
+      <workItem from="1524581324742" duration="12105000" />
+      <workItem from="1524634917003" duration="8454000" />
+      <workItem from="1524644970689" duration="16000" />
+      <workItem from="1524645761861" duration="12565000" />
+      <workItem from="1524661339004" duration="968000" />
+      <workItem from="1524662719701" duration="8000" />
+      <workItem from="1524662755600" duration="1114000" />
+      <workItem from="1524736139544" duration="1056000" />
+      <workItem from="1524743620049" duration="1430000" />
+      <workItem from="1524755206835" duration="316000" />
+      <workItem from="1524755898456" duration="4000" />
+      <workItem from="1524755930476" duration="4387000" />
+      <workItem from="1524760775299" duration="92000" />
+      <workItem from="1524804492123" duration="492000" />
+      <workItem from="1524805008315" duration="2000" />
+      <workItem from="1524805037072" duration="4000" />
+      <workItem from="1524805135899" duration="8000" />
+      <workItem from="1524805162821" duration="945000" />
+      <workItem from="1524806914432" duration="285000" />
+      <workItem from="1524834149263" duration="94000" />
+      <workItem from="1524834280293" duration="7566000" />
+      <workItem from="1524843291866" duration="198000" />
+      <workItem from="1524844086248" duration="854000" />
+      <workItem from="1524844952931" duration="2866000" />
+      <workItem from="1524848237631" duration="470000" />
+      <workItem from="1524849689538" duration="606000" />
+      <workItem from="1524879181700" duration="16000" />
+      <workItem from="1524884740202" duration="1054000" />
+      <workItem from="1524888338263" duration="225000" />
+      <workItem from="1525238625382" duration="7489000" />
+      <workItem from="1525256340723" duration="2674000" />
+      <workItem from="1525259221932" duration="13015000" />
+      <workItem from="1525328094751" duration="2260000" />
+      <workItem from="1525340481100" duration="396000" />
+      <workItem from="1525346491542" duration="166000" />
+      <workItem from="1525346734965" duration="23000" />
+      <workItem from="1525425798713" duration="292000" />
+      <workItem from="1525511611099" duration="9000" />
+      <workItem from="1525512023122" duration="270000" />
+      <workItem from="1525512898960" duration="5000" />
+      <workItem from="1525512938361" duration="10000" />
+      <workItem from="1525514400777" duration="418000" />
+      <workItem from="1525515338366" duration="524000" />
+      <workItem from="1525519278883" duration="46000" />
+      <workItem from="1525519796714" duration="427000" />
+      <workItem from="1525520756722" duration="4101000" />
+      <workItem from="1525525176782" duration="142000" />
+      <workItem from="1525525859854" duration="615000" />
+      <workItem from="1525526688491" duration="14000" />
+      <workItem from="1525528653571" duration="140000" />
+      <workItem from="1525530969483" duration="178000" />
+      <workItem from="1525531239020" duration="522000" />
+      <workItem from="1525535359893" duration="520000" />
+      <workItem from="1525569833586" duration="898000" />
+      <workItem from="1525576253673" duration="44000" />
+      <workItem from="1525579276861" duration="266000" />
+      <workItem from="1525579555067" duration="821000" />
+      <workItem from="1525586056376" duration="639000" />
+      <workItem from="1525591507600" duration="1367000" />
+      <workItem from="1525592946774" duration="1131000" />
+      <workItem from="1525597048121" duration="79000" />
+      <workItem from="1525597178194" duration="62000" />
+      <workItem from="1525606193606" duration="1030000" />
+      <workItem from="1525607332113" duration="29000" />
+      <workItem from="1525613716408" duration="800000" />
+      <workItem from="1525614538155" duration="216000" />
+      <workItem from="1525692965130" duration="2393000" />
+      <workItem from="1525769281682" duration="789000" />
+      <workItem from="1525777562823" duration="206000" />
+      <workItem from="1525781748717" duration="13201000" />
+      <workItem from="1525797514200" duration="81000" />
+      <workItem from="1525838117734" duration="35000" />
+      <workItem from="1525855951956" duration="7124000" />
+      <workItem from="1525870344831" duration="26000" />
+      <workItem from="1525870530115" duration="57000" />
+      <workItem from="1525870603333" duration="624000" />
+      <workItem from="1525873191868" duration="3000" />
+      <workItem from="1525960561378" duration="5309000" />
+      <workItem from="1525966128191" duration="8489000" />
+      <workItem from="1526026905224" duration="9791000" />
+      <workItem from="1526048825690" duration="1666000" />
+      <workItem from="1526052057643" duration="102000" />
+      <workItem from="1526053021518" duration="170000" />
+      <workItem from="1526401455260" duration="231000" />
+      <workItem from="1526401712590" duration="796000" />
+      <workItem from="1526402527862" duration="98000" />
+      <workItem from="1526404053094" duration="181000" />
+      <workItem from="1526490483449" duration="648000" />
+      <workItem from="1526581488142" duration="4212000" />
+      <workItem from="1526760297665" duration="1062000" />
+      <workItem from="1526769190227" duration="81000" />
+      <workItem from="1527310059428" duration="744000" />
+      <workItem from="1527320059633" duration="68000" />
+      <workItem from="1527337329166" duration="9491000" />
+      <workItem from="1527386780570" duration="953000" />
+      <workItem from="1527388959604" duration="740000" />
+      <workItem from="1527390831189" duration="1408000" />
+      <workItem from="1527422540419" duration="849000" />
+      <workItem from="1527473124001" duration="660000" />
+      <workItem from="1527500329587" duration="11000" />
+      <workItem from="1527510274635" duration="90000" />
+      <workItem from="1527511741040" duration="5433000" />
+      <workItem from="1527559372723" duration="2506000" />
+      <workItem from="1527562723249" duration="10036000" />
+      <workItem from="1527587195291" duration="1447000" />
+      <workItem from="1527594595235" duration="204000" />
+      <workItem from="1527600973039" duration="7780000" />
+      <workItem from="1527608832656" duration="1048000" />
+      <workItem from="1527646516499" duration="24628000" />
+      <workItem from="1527686460417" duration="3724000" />
+      <workItem from="1527730813697" duration="3891000" />
+      <workItem from="1527746106669" duration="5132000" />
+      <workItem from="1527760212524" duration="1360000" />
+      <workItem from="1527766018904" duration="12000000" />
+      <workItem from="1527816664943" duration="687000" />
+      <workItem from="1527823263334" duration="25964000" />
+      <workItem from="1527905097157" duration="610000" />
+      <workItem from="1527913342050" duration="1847000" />
+      <workItem from="1527956397642" duration="1590000" />
+      <workItem from="1527992074757" duration="11000" />
+      <workItem from="1527996810107" duration="2333000" />
+      <workItem from="1528006717747" duration="45000" />
+      <workItem from="1528019325658" duration="794000" />
+      <workItem from="1528036011948" duration="29000" />
+      <workItem from="1528036595417" duration="23000" />
+      <workItem from="1528036632910" duration="6000" />
+      <workItem from="1528036694723" duration="13000" />
+      <workItem from="1528091491974" duration="58000" />
+      <workItem from="1528096277777" duration="645000" />
+      <workItem from="1528100920727" duration="33000" />
+      <workItem from="1528120473437" duration="1771000" />
+      <workItem from="1528177073090" duration="4036000" />
+      <workItem from="1528190444575" duration="122000" />
+      <workItem from="1528190616302" duration="4795000" />
+      <workItem from="1528203248894" duration="1888000" />
+      <workItem from="1528466600312" duration="1495000" />
+      <workItem from="1528521656804" duration="4000" />
+      <workItem from="1528521686646" duration="716000" />
+      <workItem from="1528619650979" duration="267000" />
+      <workItem from="1528622756052" duration="2682000" />
+      <workItem from="1528626338890" duration="117000" />
+      <workItem from="1528641688405" duration="19000" />
+      <workItem from="1528684641952" duration="4129000" />
+      <workItem from="1528791594153" duration="5742000" />
+      <workItem from="1528804421189" duration="3218000" />
+      <workItem from="1528881274796" duration="5269000" />
+      <workItem from="1528889862275" duration="186000" />
+      <workItem from="1528890754257" duration="4769000" />
+      <workItem from="1528897503797" duration="3000" />
+      <workItem from="1528897721987" duration="54000" />
+      <workItem from="1528952396142" duration="4020000" />
+      <workItem from="1528957091321" duration="889000" />
+      <workItem from="1528959225574" duration="225000" />
+      <workItem from="1528960878522" duration="109000" />
+      <workItem from="1528962485514" duration="166000" />
+      <workItem from="1528963041386" duration="1598000" />
+      <workItem from="1528964839315" duration="34000" />
+      <workItem from="1528969529866" duration="11000" />
+      <workItem from="1528971045705" duration="825000" />
+      <workItem from="1528971970614" duration="2346000" />
+      <workItem from="1528991256160" duration="2906000" />
+      <workItem from="1528996423918" duration="10000" />
+      <workItem from="1529030752336" duration="124000" />
+      <workItem from="1529030995308" duration="613000" />
+      <workItem from="1529031688733" duration="3508000" />
+      <workItem from="1529035223264" duration="6425000" />
+      <workItem from="1529046186529" duration="3314000" />
+      <workItem from="1529054294736" duration="1150000" />
+      <workItem from="1529075220479" duration="1543000" />
+      <workItem from="1529081328761" duration="27000" />
+      <workItem from="1529081390134" duration="190000" />
+      <workItem from="1529082187549" duration="3544000" />
+      <workItem from="1529086134614" duration="993000" />
+      <workItem from="1529114018191" duration="209000" />
+      <workItem from="1529114436171" duration="27000" />
+      <workItem from="1529114569340" duration="7181000" />
+      <workItem from="1529124974138" duration="346000" />
+      <workItem from="1529126804086" duration="1634000" />
+      <workItem from="1529128535405" duration="33000" />
+      <workItem from="1529129589776" duration="1191000" />
+      <workItem from="1529140964004" duration="56000" />
+      <workItem from="1529141101272" duration="980000" />
+      <workItem from="1529142427803" duration="245000" />
+      <workItem from="1529150509352" duration="106000" />
+      <workItem from="1529155902424" duration="240000" />
+      <workItem from="1529198719515" duration="107000" />
+      <workItem from="1529238087806" duration="765000" />
+      <workItem from="1529248636165" duration="1013000" />
+      <workItem from="1529249991348" duration="159000" />
+      <workItem from="1529288554299" duration="25317000" />
+      <workItem from="1529323259952" duration="52000" />
+      <workItem from="1529323766902" duration="205000" />
+      <workItem from="1529325296118" duration="259000" />
+      <workItem from="1529344522065" duration="695000" />
+      <workItem from="1529345263319" duration="1565000" />
+      <workItem from="1529376812756" duration="1084000" />
+      <workItem from="1529419007533" duration="2921000" />
+      <workItem from="1529422878908" duration="243000" />
+      <workItem from="1529499959517" duration="975000" />
+      <workItem from="1529579708693" duration="2020000" />
+      <workItem from="1529588500237" duration="5085000" />
+      <workItem from="1529643914890" duration="14311000" />
+      <workItem from="1529670555005" duration="2195000" />
+      <workItem from="1529673184155" duration="910000" />
+      <workItem from="1529674396221" duration="216000" />
+      <workItem from="1529676638971" duration="2879000" />
+      <workItem from="1529730022013" duration="9445000" />
+      <workItem from="1529741535794" duration="4238000" />
+      <workItem from="1529746424445" duration="52000" />
+      <workItem from="1529747125102" duration="623000" />
+      <workItem from="1529751635277" duration="1600000" />
+      <workItem from="1529756676341" duration="4097000" />
+      <workItem from="1529761857031" duration="3000" />
+      <workItem from="1529763531449" duration="5560000" />
+      <workItem from="1529821336076" duration="1152000" />
+      <workItem from="1529825953229" duration="5986000" />
+      <workItem from="1529983669907" duration="707000" />
+      <workItem from="1529984764218" duration="231000" />
+      <workItem from="1530083164538" duration="98000" />
+      <workItem from="1530083344866" duration="773000" />
+      <workItem from="1530085616263" duration="598000" />
+      <workItem from="1530187596088" duration="1789000" />
+      <workItem from="1530190538474" duration="332000" />
+      <workItem from="1530191289427" duration="1169000" />
+      <workItem from="1530270392626" duration="103000" />
+      <workItem from="1530270715388" duration="187000" />
+      <workItem from="1530271055508" duration="486000" />
+      <workItem from="1530271844998" duration="839000" />
+      <workItem from="1530328241684" duration="4234000" />
+      <workItem from="1530337307069" duration="102000" />
+      <workItem from="1530348024858" duration="547000" />
+      <workItem from="1530349204307" duration="822000" />
+      <workItem from="1530350534558" duration="37000" />
+      <workItem from="1530432152689" duration="33000" />
+      <workItem from="1530433113491" duration="623000" />
+      <workItem from="1530434442767" duration="591000" />
+      <workItem from="1530695951887" duration="52000" />
+      <workItem from="1530696015543" duration="126000" />
+      <workItem from="1530780422698" duration="79000" />
+      <workItem from="1530793931884" duration="797000" />
+      <workItem from="1530795792444" duration="2354000" />
+      <workItem from="1530867880733" duration="1520000" />
+      <workItem from="1530870650417" duration="1843000" />
+      <workItem from="1530880963215" duration="361000" />
+      <workItem from="1530881377848" duration="29000" />
+      <workItem from="1530882507740" duration="1111000" />
+      <workItem from="1530887159821" duration="25000" />
+      <workItem from="1530887503206" duration="20000" />
+      <workItem from="1531150106646" duration="374000" />
+      <workItem from="1531150635630" duration="196000" />
+      <workItem from="1531214402518" duration="5063000" />
+      <workItem from="1531226963369" duration="707000" />
+      <workItem from="1531380096913" duration="104000" />
+      <workItem from="1531380407227" duration="90000" />
+      <workItem from="1531381258768" duration="145000" />
+      <workItem from="1531385028962" duration="1897000" />
+      <workItem from="1531641494658" duration="4857000" />
+      <workItem from="1531649575141" duration="971000" />
+      <workItem from="1531658353136" duration="868000" />
+      <workItem from="1531663295077" duration="312000" />
+      <workItem from="1531713475996" duration="7765000" />
+      <workItem from="1531730122702" duration="669000" />
+      <workItem from="1531812245971" duration="1158000" />
+      <workItem from="1531826208672" duration="5397000" />
+      <workItem from="1531884481193" duration="4807000" />
+      <workItem from="1531924959969" duration="211000" />
+      <workItem from="1531975333534" duration="10667000" />
+      <workItem from="1532244705842" duration="248000" />
+      <workItem from="1532248810690" duration="1028000" />
+      <workItem from="1532261370009" duration="9078000" />
+      <workItem from="1532302312600" duration="2135000" />
+      <workItem from="1532307110783" duration="2942000" />
+      <workItem from="1532313901787" duration="5737000" />
+      <workItem from="1532332191863" duration="7959000" />
+      <workItem from="1532340866133" duration="5426000" />
+      <workItem from="1532348125825" duration="988000" />
+      <workItem from="1532421351862" duration="4548000" />
+      <workItem from="1532475402953" duration="8271000" />
+      <workItem from="1532510640162" duration="4859000" />
+      <workItem from="1535101716399" duration="2000" />
+      <workItem from="1535794706516" duration="599000" />
+      <workItem from="1536290937961" duration="19425000" />
+      <workItem from="1536482826731" duration="244000" />
+      <workItem from="1539830792982" duration="916000" />
+      <workItem from="1539918191868" duration="1144000" />
+      <workItem from="1540027962202" duration="770000" />
+      <workItem from="1540086369553" duration="18855000" />
+      <workItem from="1540168881944" duration="12589000" />
+      <workItem from="1540212651849" duration="10306000" />
+      <workItem from="1540269449249" duration="3644000" />
+      <workItem from="1540277378531" duration="97000" />
+      <workItem from="1540278340626" duration="35000" />
+      <workItem from="1540278432330" duration="10358000" />
+      <workItem from="1540297207357" duration="16032000" />
+      <workItem from="1540374290159" duration="1172000" />
+      <workItem from="1540389808560" duration="5197000" />
+      <workItem from="1540426555479" duration="12487000" />
+      <workItem from="1540461775859" duration="3125000" />
+      <workItem from="1540516019549" duration="599000" />
+      <workItem from="1540539641261" duration="22272000" />
+      <workItem from="1540605128015" duration="7593000" />
+      <workItem from="1540626145313" duration="1671000" />
+      <workItem from="1540641953197" duration="1456000" />
+      <workItem from="1540652856556" duration="1344000" />
+      <workItem from="1540654450016" duration="3524000" />
+      <workItem from="1540705896363" duration="7541000" />
+      <workItem from="1540717950488" duration="5139000" />
+      <workItem from="1540770493841" duration="5593000" />
+      <workItem from="1540820844230" duration="54000" />
+      <workItem from="1541338146327" duration="1970000" />
+      <workItem from="1541376071401" duration="551000" />
+      <workItem from="1541378641639" duration="11386000" />
+      <workItem from="1541418764142" duration="736000" />
+      <workItem from="1541420895072" duration="5318000" />
+      <workItem from="1541465230317" duration="788000" />
+      <workItem from="1541466500858" duration="6285000" />
+      <workItem from="1541554315644" duration="584000" />
+      <workItem from="1541559029479" duration="2268000" />
+      <workItem from="1541563576628" duration="821000" />
+      <workItem from="1541677865251" duration="2124000" />
+      <workItem from="1541680984208" duration="1091000" />
+      <workItem from="1541687371616" duration="2986000" />
+      <workItem from="1541721796447" duration="17704000" />
+      <workItem from="1541762751613" duration="7244000" />
+      <workItem from="1541825379653" duration="4286000" />
+      <workItem from="1541901285506" duration="7628000" />
+      <workItem from="1542009442735" duration="12916000" />
+      <workItem from="1542024743168" duration="8606000" />
+      <workItem from="1542071679262" duration="12744000" />
+      <workItem from="1542177434960" duration="2741000" />
+      <workItem from="1542189898697" duration="1236000" />
+      <workItem from="1542195580169" duration="2342000" />
+      <workItem from="1542247447234" duration="3299000" />
+      <workItem from="1542256625283" duration="3161000" />
+      <workItem from="1542276120174" duration="18515000" />
+      <workItem from="1542326563623" duration="13190000" />
+      <workItem from="1542355361978" duration="594000" />
+      <workItem from="1542357820033" duration="75000" />
+      <workItem from="1542357924118" duration="250000" />
+      <workItem from="1542358211405" duration="1853000" />
+      <workItem from="1542368405074" duration="1274000" />
+      <workItem from="1542369815309" duration="23000" />
+      <workItem from="1542370962774" duration="713000" />
+      <workItem from="1542536854306" duration="600000" />
+      <workItem from="1542539680422" duration="17344000" />
+      <workItem from="1542590072147" duration="13587000" />
+      <workItem from="1542621817598" duration="667000" />
+      <workItem from="1542630604859" duration="4333000" />
+      <workItem from="1542640994211" duration="686000" />
+      <workItem from="1542684302996" duration="8314000" />
+      <workItem from="1542981757471" duration="605000" />
+      <workItem from="1544015034176" duration="78000" />
+      <workItem from="1545033334515" duration="2330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1202404000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14199598" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.24916276" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4109442" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32750398" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.32673267" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32725322" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tools/enrich.cpp</url>
+          <line>79</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tools/compare_txt.cpp</url>
+          <line>147</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tools/compare_txt.cpp</url>
+          <line>110</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/include/opencv2/objdetect.hpp" />
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h" />
+    <entry file="file:///usr/local/include/opencv2/core/cvdef.h" />
+    <entry file="file:///usr/local/include/opencv2/core/mat.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core.hpp" />
+    <entry file="file:///usr/local/include/opencv2/dnn/dnn.hpp" />
+    <entry file="file:///usr/local/include/opencv2/core/mat.inl.hpp" />
+    <entry file="file://$PROJECT_DIR$/gold/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/ml.hpp" />
+    <entry file="file://$PROJECT_DIR$/Fuwen/NumClass.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fuwen/corner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/persistence.hpp" />
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h" />
+    <entry file="file:///usr/local/include/opencv2/core/types.hpp" />
+    <entry file="file://$PROJECT_DIR$/gold/pro_file.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fuwen/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/daHua_usb/StreamRetrieve.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="100" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/camParaConfig.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="87" column="48" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/pub_img_v4l2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-946" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/daHuaCamConfig.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/camera_params_cam_5.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/camera_config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/imgproc.hpp" />
+    <entry file="file://$PROJECT_DIR$/Fuwen/DigitronDetector(svm_tube).hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1002">
+          <caret line="484" column="30" lean-forward="true" selection-start-line="484" selection-start-column="30" selection-end-line="484" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_algo.h" />
+    <entry file="file://$PROJECT_DIR$/src_cam/streamRetrieve.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/SubscribeAsync.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/camDaHua_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1765">
+          <caret line="117" column="5" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdint.h" />
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/PublishAsync.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/Serial_port.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pictures_pub.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gold/coordinante_process.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/gold/my.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/MengCfg.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold/coordinante_process.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="410" column="2" selection-start-line="410" selection-start-column="2" selection-end-line="410" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fuwen/DafuDetector2.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="722" column="29" selection-start-line="722" selection-start-column="29" selection-end-line="722" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/fordefine.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/daHua_usb/daHuaCam.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1069" column="46" selection-start-line="1069" selection-start-column="46" selection-end-line="1069" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/train_svm.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768">
+          <caret line="78" column="74" selection-start-line="78" selection-start-column="74" selection-end-line="78" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/videoPublish.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/imgProc.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="153" column="27" selection-start-line="153" selection-start-column="27" selection-end-line="153" selection-end-column="27" />
+          <folding>
+            <element signature="e#949#1008#0" expanded="true" />
+            <element signature="e#1036#1243#0" expanded="true" />
+            <element signature="e#1270#1303#0" expanded="true" />
+            <element signature="e#1335#1393#0" expanded="true" />
+            <element signature="e#1574#1780#0" expanded="true" />
+            <element signature="e#1948#1957#0" expanded="true" />
+            <element signature="e#1987#1996#0" expanded="true" />
+            <element signature="e#2194#2264#0" expanded="true" />
+            <element signature="e#2301#2438#0" expanded="true" />
+            <element signature="e#3067#3138#0" expanded="true" />
+            <element signature="e#3195#3338#0" expanded="true" />
+            <element signature="e#3996#4035#0" expanded="true" />
+            <element signature="e#4120#4252#0" expanded="true" />
+            <element signature="e#6435#7376#0" expanded="true" />
+            <element signature="e#7414#8449#0" expanded="true" />
+            <element signature="e#8480#8613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/SubscribeAsync.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold/ArmorHitTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold/bar_points.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold/my.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1310">
+          <caret line="934" column="1" lean-forward="true" selection-start-line="934" selection-start-column="1" selection-end-line="934" selection-end-column="1" />
+          <folding>
+            <element signature="e#31670#31728#0" expanded="true" />
+            <element signature="e#33117#33430#0" expanded="true" />
+            <element signature="e#34310#34465#0" expanded="true" />
+            <element signature="e#36449#36735#0" expanded="true" />
+            <element signature="e#36766#37269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/PublishAsync.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/Serial_port.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
