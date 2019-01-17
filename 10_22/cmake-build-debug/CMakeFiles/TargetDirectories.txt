@@ -1,0 +1,9 @@
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/CMakeFiles/imgProc.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/src_cam/CMakeFiles/rebuild_cache.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/src_cam/CMakeFiles/camDaHua_node.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/src_cam/CMakeFiles/edit_cache.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/tools/CMakeFiles/rebuild_cache.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/tools/CMakeFiles/pictures_pub.dir
+/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/tools/CMakeFiles/edit_cache.dir

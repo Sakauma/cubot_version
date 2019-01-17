@@ -1,4 +1,4 @@
-# Install script for directory: /home/cubot/LIN/10-22/10_22
+# Install script for directory: /home/king/domo/git_summa/cubot_version/10_22
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -32,10 +32,15 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
   set(CMAKE_INSTALL_SO_NO_EXE "1")
 endif()
 
+# Is this installation the result of a crosscompile?
+if(NOT DEFINED CMAKE_CROSSCOMPILING)
+  set(CMAKE_CROSSCOMPILING "FALSE")
+endif()
+
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/cubot/LIN/10-22/10_22/cmake-build-debug/src_cam/cmake_install.cmake")
-  include("/home/cubot/LIN/10-22/10_22/cmake-build-debug/tools/cmake_install.cmake")
+  include("/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/src_cam/cmake_install.cmake")
+  include("/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/tools/cmake_install.cmake")
 
 endif()
 
@@ -47,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/cubot/LIN/10-22/10_22/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

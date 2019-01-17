@@ -4,16 +4,16 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/cubot/LIN/10-22/10_22/tools/pictures_pub.cpp" "/home/cubot/LIN/10-22/10_22/cmake-build-debug/tools/CMakeFiles/pictures_pub.dir/pictures_pub.cpp.o"
+  "/home/king/domo/git_summa/cubot_version/10_22/tools/pictures_pub.cpp" "/home/king/domo/git_summa/cubot_version/10_22/cmake-build-debug/tools/CMakeFiles/pictures_pub.dir/pictures_pub.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include"
-  "/usr/local/include/opencv"
   "/opt/DahuaTech/MVViewer/include"
   "../include"
+  "/usr/local/include"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.
