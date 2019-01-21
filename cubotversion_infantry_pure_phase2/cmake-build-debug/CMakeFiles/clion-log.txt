@@ -1,0 +1,4 @@
+/home/sakauma/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug

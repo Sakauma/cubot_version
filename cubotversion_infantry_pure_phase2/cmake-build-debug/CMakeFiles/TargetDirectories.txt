@@ -1,0 +1,9 @@
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/CMakeFiles/imgProc.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/src_cam/CMakeFiles/rebuild_cache.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/src_cam/CMakeFiles/camDaHua_node.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/src_cam/CMakeFiles/edit_cache.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/tools/CMakeFiles/rebuild_cache.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/tools/CMakeFiles/pictures_pub.dir
+/home/sakauma/cubotversion_pure_phase1/cubotversion_infantry_pure_phase1/cmake-build-debug/tools/CMakeFiles/edit_cache.dir

@@ -1,0 +1,251 @@
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::system::system_error> >'
+  what():  open: No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(high_light_thre_mask:1788): Gtk-WARNING **: cannot open display: 
+
+(high_light_thre_mask:1798): Gtk-WARNING **: cannot open display: 
+
+(high_light_thre_mask:1868): Gtk-WARNING **: cannot open display: 
+
+(high_light_thre_mask:1900): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(img_src:1828): Gtk-WARNING **: cannot open display: 
+
+(img_src:1886): Gtk-WARNING **: cannot open display: 
+
+(img_src:1906): Gtk-WARNING **: cannot open display: 
+
+(img_src:1919): Gtk-WARNING **: cannot open display: 
+
+(img_src:1937): Gtk-WARNING **: cannot open display: 
+
+(img_src:1953): Gtk-WARNING **: cannot open display: 
+
+(img_src:1969): Gtk-WARNING **: cannot open display: 
+
+(img_src:2043): Gtk-WARNING **: cannot open display: 
+
+(img_src:2055): Gtk-WARNING **: cannot open display: 
+
+(img_src:2257): Gtk-WARNING **: cannot open display: 
+
+(img_src:2288): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::system::system_error> >'
+  what():  open: No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(img_src:1808): Gtk-WARNING **: cannot open display: 
+
+(img_src:1860): Gtk-WARNING **: cannot open display: 
+
+(img_src:1910): Gtk-WARNING **: cannot open display: 
+
+(img_src:1925): Gtk-WARNING **: cannot open display: 
+
+(img_src:1938): Gtk-WARNING **: cannot open display: 
+
+(img_src:1956): Gtk-WARNING **: cannot open display: 
+
+(img_src:2006): Gtk-WARNING **: cannot open display: 
+
+(img_src:2071): Gtk-WARNING **: cannot open display: 
+
+(img_src:2081): Gtk-WARNING **: cannot open display: 
+
+(img_src:2131): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::system::system_error> >'
+  what():  open: No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(diff_mask:1742): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1752): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1797): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1811): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1824): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1842): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2041): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2115): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2133): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2147): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2160): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2190): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2204): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2215): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2307): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2323): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2390): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(diff_mask:1750): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1766): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1837): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<boost::system::system_error> >'
+  what():  open: No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(diff_mask:1925): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1942): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2003): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2024): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2041): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2094): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2107): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2165): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2177): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2189): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2200): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2220): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2235): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2250): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2262): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(diff_mask:1818): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1922): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2057): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2083): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2099): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2120): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2136): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2201): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2215): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2236): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2249): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2271): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2281): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:2330): Gtk-WARNING **: cannot open display: 
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+terminate called after throwing an instance of 'boost::interprocess::interprocess_exception'
+  what():  No such file or directory
+Aborted (core dumped)
+
+(diff_mask:1795): Gtk-WARNING **: cannot open display: 
+
+(diff_mask:1813): Gtk-WARNING **: cannot open display: 
