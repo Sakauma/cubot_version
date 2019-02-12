@@ -1,0 +1,576 @@
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532598194.110282] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459061] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459126] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459140] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459153] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459165] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459177] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459188] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459202] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459213] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459227] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459238] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459250] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459265] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459279] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459291] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.459305] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532598194.463792] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 34334
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532606446.066771] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443484] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443520] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443538] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443558] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443576] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443593] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443609] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443627] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443644] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443664] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443684] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443702] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443718] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443735] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443753] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.443770] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532606446.448246] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 38671
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532611531.407465] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928391] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928470] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928493] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928513] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928532] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928588] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928608] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928629] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928648] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928671] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928691] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928711] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928733] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928754] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928775] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.928799] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532611531.933644] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 56429
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532612256.329852] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706582] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706633] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706686] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706700] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706713] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706727] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706739] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706752] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706764] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706778] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706790] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706803] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706816] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706828] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706840] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.706853] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532612256.711363] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 38710
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532647849.013600] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390300] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390348] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390367] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390381] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390394] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390407] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390420] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390433] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390459] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390473] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390486] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390497] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390509] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390522] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390534] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.390545] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532647849.395039] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 45591
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532652986.511303] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888407] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888444] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888463] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888482] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888499] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888514] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888530] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888546] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888562] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888581] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888600] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888617] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888633] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888651] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888669] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.888686] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532652986.893283] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 46470
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532656282.526302] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902756] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902807] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902823] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902837] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902850] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902878] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902892] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902904] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902916] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902929] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902941] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902953] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902965] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902978] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.902990] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.903002] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532656282.907570] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 46318
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532659711.518516] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.894935] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.894971] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.894991] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895010] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895027] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895044] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895060] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895079] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895096] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895115] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895132] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895148] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895165] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895183] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895202] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.895220] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532659711.899671] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 43927
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532660242.254198] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630606] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630651] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630702] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630738] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630758] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630774] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630790] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630806] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630822] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630841] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630859] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630878] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630894] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630912] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630930] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.630950] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532660242.635622] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 50168
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532673191.184297] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561618] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561655] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561674] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561694] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561711] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561727] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561743] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561759] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561776] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561795] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561814] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561831] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561848] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561868] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561886] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.561902] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532673191.566400] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 57157
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532678401.190398] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567263] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567300] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567317] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567335] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567351] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567368] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567384] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567400] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567416] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567434] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567451] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567469] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567485] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567503] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567519] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.567535] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678401.572075] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 54300
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532678927.175721] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552366] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552403] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552421] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552439] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552457] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552473] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552491] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552507] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552524] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552544] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552562] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552578] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552595] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552614] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552632] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.552648] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532678927.557209] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 38973
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532759377.138597] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515025] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515073] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515097] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515117] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515135] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515154] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515173] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515193] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515212] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515235] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515255] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515274] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515294] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515314] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515334] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.515355] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532759377.519901] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 48270
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532764265.625845] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002126] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002164] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002182] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002202] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002218] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002234] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002249] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002267] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002282] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002300] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002319] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002337] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002354] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002371] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002388] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.002405] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764266.006903] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 54435
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532764937.475502] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852082] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852118] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852136] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852154] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852171] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852188] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852203] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852219] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852236] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852254] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852273] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852290] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852307] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852324] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852341] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.852359] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532764937.856924] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 38782
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532782190.820915] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197855] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197893] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197911] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197929] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197945] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197964] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197980] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.197997] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198013] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198035] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198052] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198069] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198087] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198104] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198122] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.198139] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782191.202861] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 53085
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+[1532782641.146538] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523502] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523540] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523557] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523572] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523587] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523602] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523617] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523634] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523650] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523666] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523681] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523696] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523711] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523727] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523745] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.523763] [interface.c:56:isDriverInstalled] [SUCCESS] load Universal Ethernet drivers. mac [00:0e:c6:a1:16:a2]
+[1532782641.528492] [interface.c:122:bindFilter] bindFilter ok. handle 8, mac [00:0e:c6:a1:16:a2], port 45797
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+                                                                                                                      camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found
+camDaHua_node.sh: 3: cd: can't cd to /opt/DahuaTech/MVViewer/module/GigEDriver$
+sudo: ./loadDrv.sh: command not found

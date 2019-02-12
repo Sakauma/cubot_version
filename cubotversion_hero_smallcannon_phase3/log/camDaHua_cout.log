@@ -1,0 +1,287 @@
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-17.3803.properties
+delete file success : /tmp/2018-06-17.3803.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-17.1194.properties
+delete file success : /tmp/2018-06-17.1194.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1218.properties
+delete file success : /tmp/2018-06-18.1218.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1335.properties
+delete file success : /tmp/2018-06-18.1335.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1675.properties
+delete file success : /tmp/2018-06-18.1675.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1768.properties
+delete file success : /tmp/2018-06-18.1768.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1258.properties
+delete file success : /tmp/2018-06-18.1258.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1366.properties
+delete file success : /tmp/2018-06-18.1366.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1655.properties
+delete file success : /tmp/2018-06-18.1655.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-18.1809.properties
+delete file success : /tmp/2018-06-18.1809.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1222.properties
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1217.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1238.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1246.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1395.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1401.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1649.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1783.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1800.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1891.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1911.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.2141.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.3892.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4061.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4080.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4101.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4117.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4137.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4147.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4157.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4176.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4194.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4212.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4230.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4240.MVSDK.log
+delete file success : /tmp/2018-06-19.1222.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1382.properties
+delete file success : /tmp/2018-06-19.1382.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1620.properties
+delete file success : /tmp/2018-06-19.1620.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1751.properties
+delete file success : /tmp/2018-06-19.1751.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1171.properties
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1228.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1329.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1625.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1882.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.3059.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.3458.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.3518.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.3544.MVSDK.log
+delete file success : /tmp/2018-06-19.1171.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1278.properties
+delete file success : /tmp/2018-06-19.1278.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1614.properties
+delete file success : /tmp/2018-06-19.1614.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1723.properties
+delete file success : /tmp/2018-06-19.1723.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1190.properties
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4153.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.4484.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.5091.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.5536.MVSDK.log
+delete file success : /tmp/2018-06-19.1190.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1307.properties
+delete file success : /tmp/2018-06-19.1307.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1637.properties
+delete file success : /tmp/2018-06-19.1637.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1730.properties
+delete file success : /tmp/2018-06-19.1730.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1198.properties
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1231.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1232.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1335.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1336.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1530.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1624.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1779.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1897.MVSDK.log
+delete file success : /tmp/2018-06-19.1198.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1282.properties
+delete file success : /tmp/2018-06-19.1282.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1633.properties
+delete file success : /tmp/2018-06-19.1633.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1802.properties
+delete file success : /tmp/2018-06-19.1802.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1258.properties
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1303.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1623.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.1661.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.2001.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.2139.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.2281.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.2430.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.2804.MVSDK.log
+ Deleting /var/log/MVSDK/camDaHua_node//2018-06-14.3018.MVSDK.log
+delete file success : /tmp/2018-06-19.1258.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1360.properties
+delete file success : /tmp/2018-06-19.1360.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1654.properties
+delete file success : /tmp/2018-06-19.1654.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1793.properties
+delete file success : /tmp/2018-06-19.1793.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1254.properties
+delete file success : /tmp/2018-06-19.1254.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1361.properties
+delete file success : /tmp/2018-06-19.1361.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1645.properties
+delete file success : /tmp/2018-06-19.1645.properties
+/proc/modules u3v_drv not exist
+connect cameral failed.
+ Get the configur file successfully
+load configuration failed : File SDKLOG_default.properties does not exist
+file path : /tmp/2018-06-19.1753.properties
+delete file success : /tmp/2018-06-19.1753.properties
+succeed to set camera para
+img's original size is 1280 * 1024
+[33;40m[0m camera runing...
+camPara set successed for armor...
+ImgPub: init success

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17ebf121-e958-43d6-8912-8c9361e703ba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/armor/armor_main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1451">
+              <caret line="544" column="87" selection-start-line="544" selection-start-column="87" selection-end-line="544" selection-end-column="87" />
+              <folding>
+                <element signature="e#143#898#0" />
+                <element signature="e#17642#17738#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/armor/armor_main.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/armor/bar_points.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1319">
+              <caret line="480" column="13" selection-start-line="480" selection-start-column="13" selection-end-line="480" selection-end-column="13" />
+              <folding>
+                <element signature="e#51#575#0" />
+                <element signature="e#611#2090#0" />
+                <element signature="e#2085#9135#0" />
+                <element signature="e#9137#10004#0" />
+                <element signature="e#7269#8293#0" />
+                <element signature="e#8397#9138#1" />
+                <element signature="e#11851#13004#0" />
+                <element signature="e#13006#13990#0" />
+                <element signature="e#13992#16410#0" />
+                <element signature="e#13436#15484#0" />
+                <element signature="e#18741#20440#0" />
+                <element signature="e#20442#22520#0" />
+                <element signature="e#22522#24794#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/armor/bar_points.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" column="100" lean-forward="true" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gold/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/armor/coordinante_process.cpp" />
+        <option value="$PROJECT_DIR$/armor/armor_main.cpp" />
+        <option value="$PROJECT_DIR$/include/armor/armor_main.h" />
+        <option value="$PROJECT_DIR$/armor/bar_points.cpp" />
+        <option value="$PROJECT_DIR$/include/armor/bar_points.h" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1735" />
+    <option name="y" value="60" />
+    <option name="width" value="1853" />
+    <option name="height" value="2008" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hero_cannon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cubotversion_hero_smallcannon_pure_phase1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include/armor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ebf121-e958-43d6-8912-8c9361e703ba" name="Default Changelist" comment="" />
+      <created>1547983607348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547983607348</updated>
+      <workItem from="1547983619263" duration="178000" />
+      <workItem from="1547983855759" duration="1165000" />
+      <workItem from="1547988383982" duration="2957000" />
+      <workItem from="1548034547987" duration="977000" />
+      <workItem from="1548035870233" duration="10370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15647000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="142" y="-9" width="3698" height="2169" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49973643" visible="true" weight="0.14936146" />
+      <window_info id="Favorites" order="1" sideWeight="0.5002636" side_tool="true" weight="0.7182121" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.2495707" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32999474" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27344993" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.3268421" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/26.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold/ArmorHitTest.cpp" />
+    <entry file="file://$PROJECT_DIR$/include/armor/pro_file.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/coordinante_process.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="242" column="29" lean-forward="true" selection-start-line="242" selection-start-column="29" selection-end-line="242" selection-end-column="29" />
+          <folding>
+            <element signature="e#98#504#0" />
+            <element signature="e#506#796#0" />
+            <element signature="e#798#1047#0" />
+            <element signature="e#1000#1714#0" />
+            <element signature="e#1763#2511#1" />
+            <element signature="e#2540#2710#1" />
+            <element signature="e#2742#2860#1" />
+            <element signature="e#2916#4100#1" />
+            <element signature="e#4125#4812#1" />
+            <element signature="e#4855#5637#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/coordinante_process.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/armor_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1451">
+          <caret line="544" column="87" selection-start-line="544" selection-start-column="87" selection-end-line="544" selection-end-column="87" />
+          <folding>
+            <element signature="e#143#898#0" />
+            <element signature="e#17642#17738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/armor_main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/bar_points.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1319">
+          <caret line="480" column="13" selection-start-line="480" selection-start-column="13" selection-end-line="480" selection-end-column="13" />
+          <folding>
+            <element signature="e#51#575#0" />
+            <element signature="e#611#2090#0" />
+            <element signature="e#2085#9135#0" />
+            <element signature="e#9137#10004#0" />
+            <element signature="e#7269#8293#0" />
+            <element signature="e#8397#9138#1" />
+            <element signature="e#11851#13004#0" />
+            <element signature="e#13006#13990#0" />
+            <element signature="e#13992#16410#0" />
+            <element signature="e#13436#15484#0" />
+            <element signature="e#18741#20440#0" />
+            <element signature="e#20442#22520#0" />
+            <element signature="e#22522#24794#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/bar_points.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="100" lean-forward="true" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

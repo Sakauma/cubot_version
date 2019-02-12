@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sentry10_21"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\OpenCV\;CMake Files\src_cam\;CMake Files\tools\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="imgProc">
+				<Option output="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin/imgProc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/DahuaTech/MVViewer/include"/>
+					<Add directory="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 imgProc"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="imgProc/fast">
+				<Option output="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin/imgProc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/DahuaTech/MVViewer/include"/>
+					<Add directory="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 imgProc/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="camDaHua_node">
+				<Option output="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin/camDaHua_node" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/DahuaTech/MVViewer/include"/>
+					<Add directory="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 camDaHua_node"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="camDaHua_node/fast">
+				<Option output="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin/camDaHua_node" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/DahuaTech/MVViewer/include"/>
+					<Add directory="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 camDaHua_node/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/src_cam/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pictures_pub">
+				<Option output="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin/pictures_pub" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/DahuaTech/MVViewer/include"/>
+					<Add directory="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 pictures_pub"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pictures_pub/fast">
+				<Option output="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin/pictures_pub" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/DahuaTech/MVViewer/include"/>
+					<Add directory="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 pictures_pub/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/cmake-build-debug/tools/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/armor/armor_main.cpp">
+			<Option target="imgProc"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/armor/bar_points.cpp">
+			<Option target="imgProc"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/armor/coordinante_process.cpp">
+			<Option target="imgProc"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cam/camDaHua_node.cpp">
+			<Option target="camDaHua_node"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cam/camParaConfig.cpp">
+			<Option target="camDaHua_node"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cam/streamRetrieve.cpp">
+			<Option target="camDaHua_node"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cubot/PublishAsync.cpp">
+			<Option target="imgProc"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cubot/Serial_port.cpp">
+			<Option target="imgProc"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cubot/SubscribeAsync.cpp">
+			<Option target="camDaHua_node"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cubot/imgProc.cpp">
+			<Option target="imgProc"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/tools/pictures_pub.cpp">
+			<Option target="pictures_pub"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/../../../../usr/local/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/../../../../usr/local/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/../../../../usr/local/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/../../../../usr/local/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/src_cam/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src_cam\"/>
+		</Unit>
+		<Unit filename="/home/sakauma/cubotversion_pure_phase2/cubotversion_infantry_pure_phase2/tools/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tools\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

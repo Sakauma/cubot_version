@@ -1,0 +1,7 @@
+/home/sakauma/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sakauma/cubotversion_pure_phase1/cubotversion_hero_smallcannon_pure_phase1
+CMake Error at CMakeLists.txt:25 (add_subdirectory):
+  add_subdirectory given source "src_cam" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/sakauma/cubotversion_pure_phase1/cubotversion_hero_smallcannon_pure_phase1/cmake-build-debug/CMakeFiles/CMakeOutput.log".

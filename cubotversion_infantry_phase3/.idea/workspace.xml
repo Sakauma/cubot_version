@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/include/armor/armor_main.h" line="14" />
+    <bookmark url="file://$PROJECT_DIR$/src_cubot/imgProc.cpp" line="46" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="sentry10_21" targetName="imgProc" />
+      <config projectName="sentry10_21" targetName="camDaHua_node" />
+      <config projectName="sentry10_21" targetName="pictures_pub" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22717242-c5aa-4c39-a2f8-e5781afc31a6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/armor/armor_main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#151#900#0" />
+                <element signature="e#902#3682#0" />
+                <element signature="e#3684#3976#0" />
+                <element signature="e#3684#4501#0" />
+                <element signature="e#4503#4860#0" />
+                <element signature="e#4503#5316#0" />
+                <element signature="e#5318#10045#0" />
+                <element signature="e#10047#10540#0" />
+                <element signature="e#10544#23714#0" />
+                <element signature="e#23123#23670#0" expanded="true" />
+                <element signature="e#23716#24399#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/armor/bar_points.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-760">
+              <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#61#465#0" />
+                <element signature="e#61#1059#0" />
+                <element signature="e#1092#1789#0" />
+                <element signature="e#1092#3495#0" />
+                <element signature="e#3497#8566#0" />
+                <element signature="e#8600#9189#0" />
+                <element signature="e#8600#10168#0" />
+                <element signature="e#10170#10633#0" />
+                <element signature="e#10170#11690#0" />
+                <element signature="e#11692#12196#0" />
+                <element signature="e#11692#12955#0" />
+                <element signature="e#12957#13463#0" />
+                <element signature="e#12957#14513#0" />
+                <element signature="e#14515#15232#0" />
+                <element signature="e#14515#16299#0" />
+                <element signature="e#16301#16730#0" />
+                <element signature="e#16301#19207#0" />
+                <element signature="e#19209#19749#0" />
+                <element signature="e#19209#20708#0" />
+                <element signature="e#20710#21159#0" />
+                <element signature="e#20710#23004#0" />
+                <element signature="e#23006#23440#0" />
+                <element signature="e#23006#24866#0" />
+                <element signature="e#24868#25529#0" />
+                <element signature="e#24868#27170#0" />
+                <element signature="e#27172#27588#0" />
+                <element signature="e#27172#28877#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/armor/coordinante_process.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="791">
+              <caret line="271" column="42" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="42" />
+              <folding>
+                <element signature="e#70#496#0" />
+                <element signature="e#70#924#0" />
+                <element signature="e#926#1227#0" />
+                <element signature="e#926#1486#0" />
+                <element signature="e#1488#1709#0" />
+                <element signature="e#1711#2065#0" />
+                <element signature="e#1711#2820#0" />
+                <element signature="e#2822#3047#0" />
+                <element signature="e#2822#3856#0" />
+                <element signature="e#3858#4066#0" />
+                <element signature="e#4068#4199#0" />
+                <element signature="e#4201#4817#0" />
+                <element signature="e#4201#6191#0" />
+                <element signature="e#6193#7053#0" />
+                <element signature="e#7055#7515#0" />
+                <element signature="e#7055#8231#0" />
+                <element signature="e#8233#8259#0" />
+                <element signature="e#8233#8398#0" />
+                <element signature="e#8400#9388#0" />
+                <element signature="e#9390#10075#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src_cubot/imgProc.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6620">
+              <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#1048#1302#0" expanded="true" />
+                <element signature="e#4566#4637#0" expanded="true" />
+                <element signature="e#4709#4867#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfg/daHuaCamConfig.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/daHua_usb/daHuaParameters.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#116#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfg/camera_params_cam_5.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/daHua_usb/camParaConfig.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#53#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cfg/AutoHitCfg.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>从</find>
+      <find>从哪里</find>
+      <find>3.14</find>
+      <find>meng</find>
+      <find>large_</find>
+      <find>is_pair</find>
+      <find>ex_large_armor</find>
+      <find>r</find>
+      <find>dynamic_sp</find>
+      <find>transform_img</find>
+      <find>t_gray</find>
+      <find>color</find>
+      <find>high_light_mask</find>
+      <find>min_box</find>
+      <find>src_img</find>
+      <find>img_ori</find>
+      <find>img_o</find>
+      <find>src_</find>
+      <find>src</find>
+      <find>color_id</find>
+      <find>g_flag</find>
+      <find>areaOf</find>
+      <find>area_</find>
+      <find>fs2</find>
+      <find>DYNAMIC_SP</find>
+      <find>const</find>
+      <find>match_</find>
+      <find>detection</find>
+      <find>flag</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tools/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/armor/ArmorHitTest.cpp" />
+        <option value="$PROJECT_DIR$/armor/pro_file.cpp" />
+        <option value="$PROJECT_DIR$/armor/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src_cubot/SubscribeAsync.cpp" />
+        <option value="$PROJECT_DIR$/tools/pictures_pub.cpp" />
+        <option value="$PROJECT_DIR$/include/armor/my.h" />
+        <option value="$PROJECT_DIR$/armor/my.cpp" />
+        <option value="$PROJECT_DIR$/src_cam/camDaHua_node.cpp" />
+        <option value="$PROJECT_DIR$/cfg/daHuaCamConfig.yml" />
+        <option value="$PROJECT_DIR$/include/armor/bar_points.h" />
+        <option value="$PROJECT_DIR$/src_cubot/Serial_port.cpp" />
+        <option value="$PROJECT_DIR$/include/armor/pro_file.h" />
+        <option value="$PROJECT_DIR$/cfg/AutoHitCfg.yml" />
+        <option value="$PROJECT_DIR$/include/armor/armor_main.h" />
+        <option value="$PROJECT_DIR$/armor/bar_points.cpp" />
+        <option value="$PROJECT_DIR$/armor/coordinante_process.cpp" />
+        <option value="$PROJECT_DIR$/src_cubot/imgProc.cpp" />
+        <option value="$PROJECT_DIR$/include/armor/coordinante_process.h" />
+        <option value="$PROJECT_DIR$/armor/armor_main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1993" />
+    <option name="y" value="220" />
+    <option name="width" value="1574" />
+    <option name="height" value="1784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cubotversion_infantry_pure_phase2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cubotversion_infantry_pure_phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="armor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cubotversion_infantry_pure_phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="cfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sentry10_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cubotversion_infantry_pure_phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src_cubot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.profiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build_all">
+    <configuration name="Build_all" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="camDaHua_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sentry10_21" TARGET_NAME="camDaHua_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sentry10_21" RUN_TARGET_NAME="camDaHua_node">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="imgProc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sentry10_21" TARGET_NAME="imgProc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sentry10_21" RUN_TARGET_NAME="imgProc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pictures_pub" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sentry10_21" TARGET_NAME="pictures_pub" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sentry10_21" RUN_TARGET_NAME="pictures_pub">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build_all" />
+      <item itemvalue="Application.camDaHua_node" />
+      <item itemvalue="Application.imgProc" />
+      <item itemvalue="Application.pictures_pub" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="1" BundledDictionary0="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22717242-c5aa-4c39-a2f8-e5781afc31a6" name="Default Changelist" comment="" />
+      <created>1547706234203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547706234203</updated>
+      <workItem from="1547706245380" duration="21000" />
+      <workItem from="1547706297148" duration="43000" />
+      <workItem from="1547706354238" duration="28740000" />
+      <workItem from="1547778202546" duration="17607000" />
+      <workItem from="1547802413066" duration="14404000" />
+      <workItem from="1547869343757" duration="1177000" />
+      <workItem from="1547907175769" duration="13957000" />
+      <workItem from="1547977255394" duration="873000" />
+      <workItem from="1547984630760" duration="395000" />
+      <workItem from="1547985114839" duration="775000" />
+      <workItem from="1548146785776" duration="2147000" />
+      <workItem from="1548149112062" duration="25000" />
+      <workItem from="1548164663447" duration="689000" />
+      <workItem from="1548167362546" duration="2622000" />
+      <workItem from="1548227223002" duration="160000" />
+      <workItem from="1548296066291" duration="3739000" />
+      <workItem from="1548333551573" duration="13000" />
+      <workItem from="1548333637157" duration="193000" />
+      <workItem from="1548401739539" duration="26038000" />
+      <workItem from="1549865764058" duration="4910000" />
+      <workItem from="1549890234040" duration="2627000" />
+      <workItem from="1549949924275" duration="4758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125913000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="142" y="-9" width="3698" height="2169" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.17878956" />
+      <window_info id="Favorites" order="1" sideWeight="0.5009901" side_tool="true" weight="0.18200271" />
+      <window_info id="Structure" order="2" sideWeight="0.5009901" weight="0.18200271" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6910526" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49972236" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50027764" side_tool="true" weight="0.4" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.32719395" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31105262" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" weight="0.18184341" />
+      <window_info id="Favorites" order="1" sideWeight="0.5009901" side_tool="true" weight="0.18200271" />
+      <window_info id="Structure" order="2" sideWeight="0.5009901" weight="0.18200271" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.62789476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.32719395" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31105262" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/collect_roi_Auto.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tools/train_svm.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/pictures_pub.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/videoWrite.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="24" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/PublishAsync.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/eigen3/Eigen/Core">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/Eigen/Core">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/eigen.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3762" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/pub_img_v4l2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/streamRetrieve.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3168">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/types.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="1144" column="13" selection-start-line="1144" selection-start-column="13" selection-end-line="1144" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/thread/detail/thread.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="766" selection-start-line="766" selection-end-line="766" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/interprocess/shared_memory_object.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/interprocess/detail/managed_open_or_create_impl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6105">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="1346" column="5" selection-start-line="1346" selection-start-column="5" selection-end-line="1346" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/objdetect.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="371" column="20" selection-start-line="371" selection-start-column="20" selection-end-line="371" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/imgProc_cerr.log" />
+    <entry file="file://$PROJECT_DIR$/python/collect_roi_ByHand.py" />
+    <entry file="file://$PROJECT_DIR$/python/collect_roi_Auto.py" />
+    <entry file="file://$PROJECT_DIR$/python/png2jpg.py" />
+    <entry file="file://$PROJECT_DIR$/python/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/armor/pro_file.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/pro_file.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#102#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/svm_hog_infantry.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/armor_main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#51#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/common_cam/cam_driver_v4l2.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/coordinante_process.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#213#355#1" />
+            <element signature="e#358#442#1" />
+            <element signature="e#445#496#1" />
+            <element signature="e#499#888#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/armor/bar_points.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+          <folding>
+            <element signature="e#67#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/imgPublish.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/keyboard.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#39#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/Publish.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/cubotcpp/msg.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/daHua_usb/StreamRetrieve.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#53#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/fordefine.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/camera_config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/camParaConfig.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/daHua_usb/daHuaCam.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#43#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cam/camDaHua_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1749">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/SubscribeAsync.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/AutoHitCfg.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/daHua_usb/camParaConfig.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#53#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/camera_params_cam_5.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/daHua_usb/daHuaParameters.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#116#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/daHuaCamConfig.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_cubot/imgProc.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6620">
+          <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#1048#1302#0" expanded="true" />
+            <element signature="e#4566#4637#0" expanded="true" />
+            <element signature="e#4709#4867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/coordinante_process.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="271" column="42" selection-start-line="271" selection-start-column="38" selection-end-line="271" selection-end-column="42" />
+          <folding>
+            <element signature="e#70#496#0" />
+            <element signature="e#70#924#0" />
+            <element signature="e#926#1227#0" />
+            <element signature="e#926#1486#0" />
+            <element signature="e#1488#1709#0" />
+            <element signature="e#1711#2065#0" />
+            <element signature="e#1711#2820#0" />
+            <element signature="e#2822#3047#0" />
+            <element signature="e#2822#3856#0" />
+            <element signature="e#3858#4066#0" />
+            <element signature="e#4068#4199#0" />
+            <element signature="e#4201#4817#0" />
+            <element signature="e#4201#6191#0" />
+            <element signature="e#6193#7053#0" />
+            <element signature="e#7055#7515#0" />
+            <element signature="e#7055#8231#0" />
+            <element signature="e#8233#8259#0" />
+            <element signature="e#8233#8398#0" />
+            <element signature="e#8400#9388#0" />
+            <element signature="e#9390#10075#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/bar_points.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-760">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#61#465#0" />
+            <element signature="e#61#1059#0" />
+            <element signature="e#1092#1789#0" />
+            <element signature="e#1092#3495#0" />
+            <element signature="e#3497#8566#0" />
+            <element signature="e#8600#9189#0" />
+            <element signature="e#8600#10168#0" />
+            <element signature="e#10170#10633#0" />
+            <element signature="e#10170#11690#0" />
+            <element signature="e#11692#12196#0" />
+            <element signature="e#11692#12955#0" />
+            <element signature="e#12957#13463#0" />
+            <element signature="e#12957#14513#0" />
+            <element signature="e#14515#15232#0" />
+            <element signature="e#14515#16299#0" />
+            <element signature="e#16301#16730#0" />
+            <element signature="e#16301#19207#0" />
+            <element signature="e#19209#19749#0" />
+            <element signature="e#19209#20708#0" />
+            <element signature="e#20710#21159#0" />
+            <element signature="e#20710#23004#0" />
+            <element signature="e#23006#23440#0" />
+            <element signature="e#23006#24866#0" />
+            <element signature="e#24868#25529#0" />
+            <element signature="e#24868#27170#0" />
+            <element signature="e#27172#27588#0" />
+            <element signature="e#27172#28877#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armor/armor_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#151#900#0" />
+            <element signature="e#902#3682#0" />
+            <element signature="e#3684#3976#0" />
+            <element signature="e#3684#4501#0" />
+            <element signature="e#4503#4860#0" />
+            <element signature="e#4503#5316#0" />
+            <element signature="e#5318#10045#0" />
+            <element signature="e#10047#10540#0" />
+            <element signature="e#10544#23714#0" />
+            <element signature="e#23123#23670#0" expanded="true" />
+            <element signature="e#23716#24399#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+%YAML:1.0
+---
+
+#保存设置
+isSave: 0     #是否保存
+saveStartNum: 0   #保存图片的初始编号
+img_savePath: ../data/
+
+#SVM Model
+#svm_model_hog_path: ../cfg/svm_hog_infantry.xml   #使用HOG特征训练的SVM分类器
+svm_model_hog_path: ../cfg/svm_hog_infantry.xml
+#使用HOG特征训练的SVM分类器
+#svm_model_histogram_path                         #使用灰度直方图训练的SVM分类器
+
+#需要打击的颜色
+color2Strike: 1 # 0蓝，1红
+
+#平行灯条的夹角阈值
+bar_angle_limit: 45   #灯条条角度约束
+small_pair_bar_angle_limit: 20    #小装甲灯条匹配对角度约束
+big_pair_bar_angle_limit: 20      #大装甲灯条匹配对角度约束
+
+#make sure high light bar has some color points around 确保高亮灯条周围有色点
+high_light_mask_k: 0.05
+#make sure proposal area has some color points around 确保提案区域周围有色点
+proposal_bar_area_k: 0.05
+#limit bar size   #限制灯条尺寸
+bar_height_H: 150
+bar_height_L: 8
+bar_slim_k_H: 10
+bar_slim_k_L: 1
+
+#dynamic_sp      #虚拟的目标点
+sp_dynamic_x: 275
+sp_dynamic_y: 275
